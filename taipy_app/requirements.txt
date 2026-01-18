@@ -1,0 +1,5 @@
+# Optional requirements for Taipy test UI
+# Note: Taipy may have compatibility issues with Python 3.13
+# If installation fails, use the npm frontend instead (recommended)
+taipy>=2.6.0
+requests>=2.31.0
